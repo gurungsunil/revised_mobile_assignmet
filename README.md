@@ -1,16 +1,15 @@
 # revised_mobile_assignment
 
-A new Flutter project.
+I have follow up the all the instruction mention in the assignment. As for the design I have tried to
+make it as similar as in the given design shot. I have used same color code used in design
+but flutter engine render color slightly differently even though it has same color code.
 
-## Getting Started
+As mention in the instruction the email validation is mandatory so I have implement it in both Login 
+and signup view. And for next instruction 'Login by Gmail should be allowed' I have sort of confusion
+what is actually referring to so I have implement Google Sign in in Login view. 
 
-This project is a starting point for a Flutter application.
+If you find any of the task had been missing feel free to contact me. Thank you for this opportunity.
 
-A few resources to get you started if this is your first Flutter project:
+Regards,
+Sunil Gurung
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
