@@ -303,6 +303,7 @@ class _SignupViewState extends State<SignupView> with ValidatorMixin {
             height: 12,
           ),
           Row(
+            mainAxisAlignment: MainAxisAlignment.center,
             children: [
               const Flexible(
                 child: Divider(
@@ -342,7 +343,9 @@ class _SignupViewState extends State<SignupView> with ValidatorMixin {
                   ),
                   height: 40,
                   child: Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
                     children: [
+
                       SvgPicture.asset(
                         "assets/svg/google.svg",
                         height: 30,

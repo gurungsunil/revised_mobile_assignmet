@@ -329,6 +329,7 @@ class _LoginViewState extends State<LoginView> with ValidatorMixin {
                     ),
                     height: 40,
                     child: Row(
+                      mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Flexible(
                           child: SvgPicture.asset(
